@@ -12,21 +12,21 @@ Project Overview
 4.Font Awesome: To integrate scalable vector icons for a modern look.
 5.Google Fonts: To incorporate beautiful and legible typography.
 
-3️⃣.AI Tools Utilized:
+3️⃣#AI Tools Utilized:
 The development of this portfolio involved leveraging various AI tools to streamline the process:
-➡️ChatGPT: For generating content, code snippets, and design suggestions.
-➡️Claude: To assist with complex coding challenges and optimization.
-➡️Lummi.ai: For advanced design and user interface recommendations.
-➡️Nxtwave: To enhance functionality and incorporate best practices.
+1.ChatGPT: For generating content, code snippets, and design suggestions.
+2.Claude: To assist with complex coding challenges and optimization.
+3.Lummi.ai: For advanced design and user interface recommendations.
+4.Nxtwave: To enhance functionality and incorporate best practices.
 
-4️⃣.Features:
+4️⃣#Features:
 
 ➡️Responsive Design: The website adapts seamlessly to different screen sizes, ensuring a consistent user experience on desktops, tablets, and smartphones.
 Glass-Like Style: A modern design trend that provides a translucent and elegant visual effect.
 GitHub Pages Deployment: The site is hosted using GitHub Pages, making it easy to maintain and update.
 
-5️⃣.Repository Contents:
-➡️index.html: The main HTML file for the home page.
-➡️styles.css: The CSS file containing all styling rules.
-➡️scripts.js: JavaScript file for interactive features.
-➡️assets/: Directory containing images, fonts, and other resources.
+5️⃣#Repository Contents:
+1.index.html: The main HTML file for the home page.
+2.styles.css: The CSS file containing all styling rules.
+3.scripts.js: JavaScript file for interactive features.
+4.assets/: Directory containing images, fonts, and other resources.
