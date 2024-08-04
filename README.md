@@ -6,11 +6,11 @@ Project Overview
 
 2️⃣.This portfolio website is designed to demonstrate my skills and expertise in web development. It features a sleek and stylish design with a glass-like aesthetic, making it visually appealing across all devices. The site is built with the following technologies:
 
-➡️HTML: For the structure and content of the web pages.
-➡️CSS: To style and layout the website, providing a polished look and feel.
-➡️JavaScript: For interactive elements and enhancing user experience.
-➡️Font Awesome: To integrate scalable vector icons for a modern look.
-➡️Google Fonts: To incorporate beautiful and legible typography.
+1.HTML: For the structure and content of the web pages.
+2.CSS: To style and layout the website, providing a polished look and feel.
+3.JavaScript: For interactive elements and enhancing user experience.
+4.Font Awesome: To integrate scalable vector icons for a modern look.
+5.Google Fonts: To incorporate beautiful and legible typography.
 
 3️⃣.AI Tools Utilized:
 The development of this portfolio involved leveraging various AI tools to streamline the process:
